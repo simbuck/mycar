@@ -1,5 +1,5 @@
 ["cam/image_array", "user/angle", "user/throttle", "user/mode"]
 ["image_array", "float", "float", "str"]
 {}
-{"created_at": 1653281574.4053724, "sessions": {"all_full_ids": ["22-05-23_0"], "last_id": 0, "last_full_id": "22-05-23_0"}}
-{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog"], "current_index": 3684, "max_len": 1000, "deleted_indexes": []}
+{"created_at": 1653283165.4623356, "sessions": {"all_full_ids": ["22-05-23_0"], "last_id": 0, "last_full_id": "22-05-23_0"}}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog"], "current_index": 3097, "max_len": 1000, "deleted_indexes": []}
